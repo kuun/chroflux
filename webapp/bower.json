@@ -1,0 +1,27 @@
+{
+  "name": "chroflux",
+  "version": "0.0.0",
+  "authors": [
+    "kuun <kuunwang@gmail.com>"
+  ],
+  "description": "",
+  "main": "index.html",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "lodash": "~3.10.1",
+    "riot": "~2.2.4",
+    "RiotControl": "riotcontrol#*",
+    "bootstrap": "~3.3.5"
+  }
+}
