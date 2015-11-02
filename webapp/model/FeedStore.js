@@ -12,6 +12,4 @@ function FeedStore() {
       self.trigger('feed_loaded', self.feeds)
     })
   })
-
-
 }
