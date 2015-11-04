@@ -12,10 +12,22 @@
     #item-content p {
       font-size: 120%;
     }
+    #item-content pre {
+      margin-left: auto;
+      margin-right: auto;
+      max-width: 100%;
+    }
     #item-content img {
       display: block;
       margin-left: auto;
       margin-right: auto;
+      max-width: 100%;
+    }
+    #item-content h1, #item-content h2, #item-content h3, #item-content h4, #item-content h5, #item-content h6 {
+      color: rgb(40, 50, 62);
+      border-color: rgb(181, 192, 206);
+      border-bottom-style: solid;
+      border-bottom-width: 1px;
     }
   </style>
 
